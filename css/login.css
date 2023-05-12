@@ -1,0 +1,51 @@
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+}
+
+div {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+form {
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 6rem;
+  width: 300px;
+  height: 400px;
+  background-color: rgb(227, 223, 223);
+  box-shadow: 15px 15px 10px gray;
+}
+
+h2 {
+  margin-top: 6rem;
+}
+
+input {
+  text-align: center;
+  height: 25px;
+  background-color: lightgray;
+  color: rgb(76, 74, 74);
+  border-color: lightgray;
+}
+
+button {
+  background-color: aqua;
+  color: aliceblue;
+  width: 12.5em;
+  height: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+a:hover {
+  color: blueviolet;
+}
